@@ -1,0 +1,23 @@
+.navbar-brand{
+    font-family: "Poppins", sans-serif;
+
+}
+.card1{
+    background-size:200%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card2{
+        background-size:200%;
+        background-repeat: no-repeat;
+        background-position: center;
+}
+.card{
+    background-size:200%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.navbar1{
+    background-color: #FFE5E5;
+}
